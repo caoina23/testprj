@@ -1,0 +1,6 @@
+{
+    "configuration": "pinout=standard,clock=8MHz_external",
+    "board": "arduino:avr:32",
+    "programmer": "arduino:usbtinyisp",
+    "sketch": "RK_LOCK.ino"
+}
